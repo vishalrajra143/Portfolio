@@ -1,0 +1,51 @@
+[{
+        "name": "",
+        "desc": "A social media Web Application built using MERN stack user can post events and delete their posts and like others post.",
+        "image": "SocialLinkr",
+        "category": "mern",
+        "links": {
+            "view": "https://sociallinkr.netlify.app/",
+            "code": "https://github.com/ashish10001111/SocialLinkr"
+        }
+    },
+    {
+        "name": "CampusTradeHub ",
+        "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+        "image": "campustradehub",
+        "category": "mern",
+        "links": {
+            "view": "https://campustradehub.onrender.com/",
+            "code": "https://github.com/vishalrajra143/CampusTradeHub_P"
+        }
+    },
+    {
+        "name": "Portfolio Website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolioimg",
+        "category": "basicweb",
+        "links": {
+            "view": "https://ashishpathak.onrender.com/",
+            "code": "https://github.com/ashish10001111/Portfolio-Website"
+        }
+    },
+    {
+        "name": "Weather API",
+        "desc": "An intuitive weather web app providing real-time forecasts and conditions for locations worldwide.",
+        "image": "weatherapi",
+        "category": "basicweb",
+        "links": {
+            "view": "https://github.com/ashish10001111/WeatherApp",
+            "code": "https://github.com/ashish10001111/WeatherApp"
+        }
+    },
+    {
+        "name": "ACE Website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "ACE",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/ashish10001111/Portfolio-Website"
+        }
+    }
+]
