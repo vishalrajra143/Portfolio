@@ -1,31 +1,13 @@
-[{
-        "name": "",
-        "desc": "A social media Web Application built using MERN stack user can post events and delete their posts and like others post.",
-        "image": "SocialLinkr",
-        "category": "mern",
-        "links": {
-            "view": "https://sociallinkr.netlify.app/",
-            "code": "https://github.com/ashish10001111/SocialLinkr"
-        }
-    },
-    {
-        "name": "CampusTradeHub ",
-        "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-        "image": "campustradehub",
-        "category": "mern",
-        "links": {
-            "view": "https://campustradehub.onrender.com/",
-            "code": "https://github.com/vishalrajra143/CampusTradeHub_P"
-        }
-    },
+[
+
     {
         "name": "Portfolio Website",
         "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-        "image": "portfolioimg",
+        "image": "Portfolio 2",
         "category": "basicweb",
         "links": {
-            "view": "https://ashishpathak.onrender.com/",
-            "code": "https://github.com/ashish10001111/Portfolio-Website"
+            "view": "https://celadon-shortbread-c25343.netlify.app",
+            "code": "https://github.com/vishalrajra143/Portfolio"
         }
     },
     {
@@ -34,18 +16,38 @@
         "image": "weatherapi",
         "category": "basicweb",
         "links": {
-            "view": "https://github.com/ashish10001111/WeatherApp",
-            "code": "https://github.com/ashish10001111/WeatherApp"
+            "view": "",
+            "code": "https://github.com/vishalrajra143/Weather_Forecast"
         }
     },
     {
-        "name": "ACE Website",
-        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-        "image": "ACE",
+        "name": "Campus Trade Hub",
+        "desc": "Full-Stack Flipkart With Admin Dashboard And Paytm Payment Gateway. MERN Stack WebApp, Ready To Use For Business.",
+        "image": "campustradehub",
+        "category": "mern",
+        "links": {
+            "view": "https://campustradehub.onrender.com",
+            "code": "https://github.com/vishalrajra143/CampusTradeHub_P"
+        }
+    },
+    {
+        "name": "Shop Haven",
+        "desc": "Created a Full-Stack E-Commerce platform which allows users to browse, filter products by category and price range. MERN Stack WebApp,Ready To Use For Business.",
+        "image": "shophaven 2",
+        "category": "mern",
+        "links": {
+            "view": "https://shop-haven.netlify.app",
+            "code": "https://github.com/vishalrajra143/ShopHaven"
+        }
+    },
+    {
+        "name": "CryptoHunter",
+        "desc": "Developed a dynamic Cryptocurrency Tracker website using React, JavaScript, and Material UI.Employs real-time data from the Coin Gecko API to display accurate cryptocurrency information, also used Context API to manage state of the app.",
+        "image": "cryptotracker",
         "category": "basicweb",
         "links": {
-            "view": "#",
-            "code": "https://github.com/ashish10001111/Portfolio-Website"
+            "view": "https://cryptohunter.onrender.com",
+            "code": "https://github.com/vishalrajra143/CryptoHunter"
         }
     }
 ]
